@@ -30,3 +30,39 @@ This project focuses on modern UI design, layout structuring, and responsive sec
 ├── index.html # Main HTML file
 ├── style.css # Styling file
 ├── TODO.md # Task checklist
+
+---
+
+## 📸 Preview
+
+> Open `index.html` directly in your browser to view the website.
+
+---
+
+## 🎯 Learning Outcomes
+
+- Structuring real-world landing pages
+- CSS Flexbox & Grid usage
+- UI/UX design fundamentals
+- Responsive web layout techniques
+
+---
+
+## ⚠️ Disclaimer
+
+This project is created **for educational purposes only**.  
+All brand names, logos, and images belong to their respective owners (Salesforce).
+
+---
+
+## 👨‍💻 Author
+
+**Jitendra Gaherwar**  
+B.Tech IT Student | Frontend Developer  
+📧 jitendragaherwar03@gmail.com  
+
+---
+
+## ⭐ Support
+
+If you like this project, don’t forget to **star ⭐ the repository**!
